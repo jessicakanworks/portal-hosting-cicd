@@ -1,0 +1,2 @@
+- targets: ["https://portal.example.net/healthz", "https://portal.example.net/tickets/healthz"]
+  labels: {env: prod, app: portal}

@@ -1,0 +1,2 @@
+- targets: ["https://portal.example.gov.rw/actuator/health", "https://helpdesk.example.gov.rw/"]
+  labels: {env: prod, service: portal}
